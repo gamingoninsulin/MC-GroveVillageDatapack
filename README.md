@@ -62,12 +62,12 @@ ___
 <div align="center">
 <h3>changelog:</h3>
 
-  | ADDED           |  ITEMS                      |
-  |:---------------:|:---------------------------:|
-  | initial commit  | initiial files              |
-  |added NBT files: |8X small cherry grove houses |
-  |                 |3X cherry grove animal pen   |
-  |                 |1x cherry grove lamp         |
+  | ADDED           |  ITEMS                           |
+  |:---------------:|:--------------------------------:|
+  | IC              | Initiial Files                   |
+  | NBT Files       |8X small cherry grove houses 1 -8 |
+  |                 |3X cherry grove animal pen        |
+  |                 |1x cherry grove lamp              |
   
   
   |  Removed    |  ITEMS    |
@@ -77,9 +77,9 @@ ___
   |             |           |
  
  
-  |  CHANGED   |  ITEMS    |
-  |:----------:|:---------:|
-  |            |           |
-  |            |           |
-  |            |           |
+  |  CHANGED                                   |  ITEMS    |
+  |:------------------------------------------:|:---------:|
+  | All vanilla plains structures for datapack |           |
+  |                                            |           |
+  |                                            |           |
 <div>
