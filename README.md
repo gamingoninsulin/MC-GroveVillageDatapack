@@ -68,6 +68,11 @@ ___
   | NBT Files       |8X small cherry grove houses 1 -8 |
   |                 |3X cherry grove animal pen        |
   |                 |1x cherry grove lamp              |
+  |                 |3X corner (street)                |
+  |                 |1X crossroad                      |
+  
+  
+  
   
   
   |  Removed    |  ITEMS    |
