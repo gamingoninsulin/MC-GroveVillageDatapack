@@ -82,4 +82,48 @@ ___
   | All vanilla plains structures for datapack |           |
   |                                            |           |
   |                                            |           |
-<div>
+</div>
+
+___
+
+File Tree:<br>
+📦Cherry Grove Villages 1.20+ Datapck<br>
+ ┣ 📂data<br>
+ ┃ ┗ 📂grovevillage<br>
+ ┃ ┃ ┣ 📂structures<br>
+ ┃ ┃ ┃ ┣ 📂streets<br>
+ ┃ ┃ ┃ ┃ ┣ 📜corner_01.nbt<br>
+ ┃ ┃ ┃ ┃ ┣ 📜corner_02.nbt<br>
+ ┃ ┃ ┃ ┃ ┣ 📜corner_03.nbt<br>
+ ┃ ┃ ┃ ┃ ┗ 📜crossroad_01.nbt<br>
+ ┃ ┃ ┃ ┣ 📂village<br>
+ ┃ ┃ ┃ ┃ ┗ 📂cherry_grove<br>
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂houses<br>
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜cherry_grove_animal_pen_1.nbt<br>
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜cherry_grove_animal_pen_2.nbt<br>
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜cherry_grove_animal_pen_3.nbt<br>
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜cherry_grove_small_house_1.nbt<br>
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜cherry_grove_small_house_2.nbt<br>
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜cherry_grove_small_house_3.nbt<br>
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜cherry_grove_small_house_4.nbt<br>
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜cherry_grove_small_house_5.nbt<br>
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜cherry_grove_small_house_7.nbt<br>
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜cherry_grove_small_house_8.nbt<br>
+ ┃ ┃ ┃ ┗ 📜cherry_grove_lamp_1.nbt<br>
+ ┃ ┃ ┣ 📂tags<br>
+ ┃ ┃ ┃ ┗ 📂worldgen<br>
+ ┃ ┃ ┃ ┃ ┗ 📂biome<br>
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂has_structure<br>
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜cherry_grove_village.json<br>
+ ┃ ┃ ┗ 📂worldgen<br>
+ ┃ ┃ ┃ ┣ 📂structure<br>
+ ┃ ┃ ┃ ┃ ┗ 📜cherry_grove_village.json<br>
+ ┃ ┃ ┃ ┣ 📂structure_set<br>
+ ┃ ┃ ┃ ┃ ┗ 📜cherry_grove_village.json<br>
+ ┃ ┃ ┃ ┗ 📂template_pool<br>
+ ┃ ┃ ┃ ┃ ┗ 📂grove<br>
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜start_pool.json<br>
+ ┣ 📜LICENSE<br>
+ ┣ 📜pack.mcmeta<br>
+ ┣ 📜pack.png<br>
+ ┗ 📜README.md<br>
