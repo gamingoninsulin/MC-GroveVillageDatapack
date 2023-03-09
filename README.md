@@ -6,7 +6,7 @@
 
 <div align="center">
   <img width="2000" height="0"><br>
-    <h2>🌐Global available 🗺️Changed Biomes 🆕as of (09-03-2023) 👨🏻‍💻 Datapack for 1.20+</h2>
+    <h3>🌐Global available 🗺️Changed Biomes 🆕as of (09-03-2023) 👨🏻‍💻 Datapack for 1.20+</h3>
   <img width="2000" height="0">
 </div>
 
