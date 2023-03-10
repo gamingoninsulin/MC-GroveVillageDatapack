@@ -1,6 +1,6 @@
 <div align="center" >
   <img width="4000" height="0">
-    <h1>MC GroveVillage Datapack</h1>
+    <h1><a href="https://gamingoninsulin.github.io/MC-GroveVillageDatapack/">MC GroveVillage Datapack</a></h1>
   <img width="4000" height="0">
 </div>
 
